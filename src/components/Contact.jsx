@@ -41,7 +41,7 @@ ${message}`
 
     // FORM RECEIVER EMAIL - CHANGE HERE
     window.location.href =
-      `mailto:your-email@gmail.com?subject=${emailSubject}&body=${emailBody}`;
+      `mailto:mr.haadakbar@gmail.com?subject=${emailSubject}&body=${emailBody}`;
   };
 
   return (
@@ -117,10 +117,10 @@ ${message}`
 
                 {/* EMAIL LINK - CHANGE HERE */}
                 <a
-                  href="mailto:your-email@gmail.com"
+                  href="mailto:mr.haadakbar@gmail.com"
                   className="break-all text-[13px] font-medium text-white hover:text-[#00b5ff]"
                 >
-                  your-email@gmail.com
+                  mr.haadakbar@gmail.com
                 </a>
 
               </div>
